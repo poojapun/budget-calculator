@@ -16,6 +16,6 @@ function addExpenses(){
 }
 
 function addResults(savings){
-    resultsView.innerHTML = `<h3>Your montly savings is ${savings}!</h3>`
+    resultsView.innerHTML = `<h3>Your monthly savings is ${savings}!</h3>`
 }
 
