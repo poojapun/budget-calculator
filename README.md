@@ -1,1 +1,1 @@
-# budget-calculato
+# budget-calculator
